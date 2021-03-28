@@ -9,4 +9,4 @@ The API gives each tweet a score between -1 and 1 based on how positive/negative
 After we have the scores, we can send them  to BigQuery to do more complex things with them, otherwise we just sum the total scores (score x magnitude).
 ## Results:
 Results for Saturday 28th March 2021 after analyzing over 3400 tweets:
-![Result](https://imgur.com/bf8676b6-40ea-4ba2-88e8-78bd077e6161)
+![Result](https://raw.githubusercontent.com/abdessamadhamzaoui/TwitterSentimentAnalysis/main/result-saturday.jpg)
