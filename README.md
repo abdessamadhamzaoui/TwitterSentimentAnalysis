@@ -1,5 +1,9 @@
 # TwitterSentimentAnalysis
-Sentiment Analysis for Crypto related tweets
+Sentiment Analysis for Ethereum and Eth related tweets
+
+## Why?
+Sentiment analysis is one of the most overlooked market indicators, even though it can give a clear idea of how the market thinks at a certain moment. Sentiment indicators look at how bullish or bearish market actors and what they are thinking and feeling, which can be used by investors and traders to predict the future behavior of the market.
+What better place to see the opinions of eth holders than Twitter, famous for always having strong opinions.
 
 ## Software Architecture
 ![SoftwareArchitecture](https://raw.githubusercontent.com/abdessamadhamzaoui/TwitterSentimentAnalysis/main/architecture.jpg)
